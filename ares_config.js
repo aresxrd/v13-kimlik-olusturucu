@@ -1,5 +1,5 @@
 module.exports = {
-token:"MTE0ODE5OTkxNjk1MTMyMjcxNQ.G-Og6a.5Nu5j5dIb_TpO6GqlnZGbaXPRSu-l4bJGHJ_ac", // Discord Bot Tokeninizi Giriniz
+token:"BOT TOKEN GİRİNİZ", // Discord Bot Tokeninizi Giriniz
 prefix:".", // Bot Prefixinizi Giriniz
 kimlikarkaplan:"https://cdn.discordapp.com/attachments/1145536362439782413/1163644158838308935/Picsart_23-02-25_15-47-35-094.png?ex=65405312&is=652dde12&hm=4a0821a9eb00a7f7447ae60f6b31a2734eb760bdba8358457dcd78979494425c&", // Kimlik Arka Planı
 kimlikler:[
