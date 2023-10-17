@@ -29,9 +29,7 @@
 
  # İletişim
 
-- [Discord Profilim](https://discord.com/users/1143638421257072661)
+- [🎈 Discord Profilim](https://discord.com/users/1143638421257072661)
 - [⭐ StarDev](https://discord.gg/ez8kSfyCa7)
-
-- Herhangi bir hata bulmanız durumunda bana discorddan ulaşabilirsiniz
 
   
